@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c281008e-f7d6-491c-97d8-c98077991421" name="Changes" comment="Main class of BMI Calculator Lab">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BMICalculator.iml" afterDir="false" />
+    <list default="true" id="c281008e-f7d6-491c-97d8-c98077991421" name="Changes" comment="BMI Calculator Lab 02.01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +47,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.BMICalcTester">
+  <component name="RunManager" selected="Application.BMICalculator">
     <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BMICalculator" />
       <module name="BMICalculator" />
@@ -71,8 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BMICalcTester" />
         <item itemvalue="Application.BMICalculator" />
+        <item itemvalue="JUnit.BMICalcTester" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668440449878</updated>
-      <workItem from="1668440454429" duration="6664000" />
+      <workItem from="1668440454429" duration="6902000" />
     </task>
     <task id="LOCAL-00001" summary="Main class of BMI Calculator Lab">
       <created>1668441116962</created>
@@ -93,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668441116962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BMI Calculator Lab 02.01">
+      <created>1668607797714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668607797714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Main class of BMI Calculator Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main class of BMI Calculator Lab" />
+    <MESSAGE value="BMI Calculator Lab 02.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="BMI Calculator Lab 02.01" />
   </component>
 </project>

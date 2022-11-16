@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
- * Converts and calculates users BMI based on height and weight
+ * Converts and calculates users BMI based on height and weight using inches and pounds.
  * @version 11/16/2022
  * @author 23benjamin
  */
